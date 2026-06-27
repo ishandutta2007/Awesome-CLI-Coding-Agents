@@ -57,11 +57,6 @@ The AI coding market has matured into a landscape dominated by tech giants and h
 | **[Command Code](https://commandcode.ai)** | CLI-native AI coding agent that learns developer "taste" with the `taste-1` neuro-symbolic model. | Terminal-centric, learning style patterns, respects developer workflows. | Go ($1/mo), Pro ($15/mo), Max ($100-$200/mo) | Free tier for solo developers (or $10 credits on Go plan) | **$5M** (Seed) |
 | **[Freebuff](https://freebuff.com)** | Open-source, terminal-based AI coding assistant. | Ad-supported alternative to Claude Code; runs locally. | Free (Ad-supported) | Unlimited (displays text-based ads) | **$500K+** (YC F24) |
 | **[OpenCode](https://opencode.ai)** | Open-source, terminal-first AI coding agent. | Provider-agnostic CLI/TUI agent with MCP & LSP support. | OpenCode Go ($10/mo) or BYO API Key | Unlimited (with BYO key) / Basic fallback models | **Undisclosed** |
-| **[Hermes Agent](https://github.com/NousResearch/hermes-agent)** | Nous Research's self-improving CLI agent with persistent memory. | Sandboxed execution, multi-platform RPC, supports 300+ models. | Free (Open Source) | Unlimited (Self-hosted) | **Community** |
-| **[Claw Code](https://github.com/ultraworkers/claw-code)** | Clean-room rewrite of Claude Code architecture in Python/Rust. | Fastest repo in GitHub history to 100K stars, MIT. | Free (Open Source) | Unlimited (Self-hosted) | **Community** |
-| **[Open Interpreter](https://github.com/OpenInterpreter/open-interpreter)** | Terminal tool that executes code and actions locally. | Direct system access via standard shell. | Free (Open Source) | Unlimited (Self-hosted) | **Community** |
-| **[Cline CLI](https://github.com/cline/cline)** | Model-agnostic autonomous agent for planning, file edits, and browser use. | Built-in shell and browser tool calling. | Free (Open Source) | Unlimited (Self-hosted) | **Community** |
-| **[Aider](https://github.com/Aider-AI/aider)** | CLI-based AI pair programmer editing files directly. | Best-in-class Git-based multi-file coding workflows. | Free (Open Source) | Unlimited (Self-hosted) | **Community** |
 
 ---
 
@@ -119,6 +114,12 @@ The AI coding market has matured into a landscape dominated by tech giants and h
   First open-source AI editor that tracks changes across your entire stack.
 - **[Mentat](https://github.com/AbanteAI/archive-old-cli-mentat)** [![GitHub stars](https://img.shields.io/github/stars/AbanteAI/archive-old-cli-mentat?style=social&color=white)](https://github.com/AbanteAI/archive-old-cli-mentat/stargazers) 🧠  
   AI coding assistant that lives in your terminal and understands your project context.
+- **[Hermes Agent](https://github.com/NousResearch/hermes-agent)** | Nous Research's self-improving CLI agent with persistent memory. | Sandboxed execution, multi-platform RPC, supports 300+ models. 
+- **[Claw Code](https://github.com/ultraworkers/claw-code)** | Clean-room rewrite of Claude Code architecture in Python/Rust. | Fastest repo in GitHub history to 100K stars, MIT. 
+- **[Open Interpreter](https://github.com/OpenInterpreter/open-interpreter)** | Terminal tool that executes code and actions locally. | Direct system access via standard shell. 
+- **[Cline CLI](https://github.com/cline/cline)** | Model-agnostic autonomous agent for planning, file edits, and browser use. | Built-in shell and browser tool calling. 
+- **[Aider](https://github.com/Aider-AI/aider)** | CLI-based AI pair programmer editing files directly. | Best-in-class Git-based multi-file coding workflows. 
+
 
 ### 🔬 Experimental & Specialized OS Tools
 
