@@ -1,8 +1,8 @@
 <div align="center">
 
-<img src="assets/banner.svg" alt="Awesome AI Code Editor Banner" width="100%">
+<img src="assets/banner.svg" alt="Awesome CLI Coding Agents Banner" width="100%">
 
-# 🚀 Awesome AI Code Editor
+# 🚀 Awesome CLI Coding Agents
 ### The Ultimate Curated List of AI-Powered IDEs, Agents & Coding Ecosystems
 
 [![GitHub Stars](https://img.shields.io/github/stars/ishandutta2007/Awesome-CLI-Coding-Agents?style=for-the-badge&logo=github&color=FFD700)](https://github.com/ishandutta2007/Awesome-CLI-Coding-Agents/stargazers)
