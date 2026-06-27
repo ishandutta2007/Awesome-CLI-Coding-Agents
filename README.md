@@ -44,7 +44,7 @@ The AI coding market has matured into a landscape dominated by tech giants and h
 | :--- | :--- | :--- | :--- | :--- | :--- |
 | **[GitHub Copilot CLI](https://github.com/features/copilot)** | Command-line utility for shell command generation and explanation. | Integrated directly into standard shells via `gh copilot`. | From $10/mo (Individual), $19/user/mo (Business), $39/user/mo (Enterprise) | 2,000 completions/mo, 50 premium requests/mo (free for verified students/teachers/OSS maintainers) | **$3.5T** (Microsoft) |
 | **[Antigravity CLI](https://antigravity.google)** | Google's premier agent-first CLI development platform. | Multi-agent CLI workspace replacing legacy Gemini CLI. | Pro ($19.99/mo), Ultra ($100/mo), Ultra Max ($200/mo) | Basic weekly/hourly limits on compute effort | **$2.2T** (Google) |
-| **[Gemini CLI](https://github.com/google-gemini/gemini-cli)** | Google's terminal agent powered by Gemini, with tools for repo work and research. | Official CLI tool, Apache-2.0. | Free (Open Source) | Unlimited (Self-hosted) | **$2.2T** (Google) |
+| **[Gemini CLI (Retired)](https://github.com/google-gemini/gemini-cli)** | Legacy terminal agent, replaced by Antigravity CLI. | Succeeded by Antigravity CLI. | Free (Open Source) | Unlimited (Self-hosted) | **$2.2T** (Google) |
 | **[Kiro CLI](https://kiro.dev)** | AI-powered terminal assistant succeeding Amazon Q Developer CLI. | Intelligent command autocompletion, chat, and explanation. | Included with existing Amazon Q Developer subscriptions / Pro | Free tier limits apply | **$2.1T** (Amazon / Kiro) |
 | **[Claude Code](https://claude.ai/)** | Anthropic's power-user coding interface. | $44B ARR; features superior reasoning and large context. | API consumption or Claude Pro ($20/mo) / Claude Max ($100-$200/mo) | No Free Tier | **$965B** (Anthropic) |
 | **[Trae Agent](https://github.com/bytedance/trae-agent)** | Modular CLI agent for software engineering tasks with multi-LLM support. | Research-friendly modular architecture, MIT. | Free (Open Source) | Unlimited (Self-hosted) | **$600B** (ByteDance) |
@@ -72,8 +72,8 @@ The AI coding market has matured into a landscape dominated by tech giants and h
   Clean-room rewrite of Claude Code architecture in Python/Rust.
 - **[OpenCode](https://github.com/anomalyco/opencode)** [![GitHub stars](https://img.shields.io/github/stars/anomalyco/opencode?style=social&color=white)](https://github.com/anomalyco/opencode/stargazers) ⌨️  
   Terminal-native coding agent with 75+ provider support and LSP integration.
-- **[Gemini CLI](https://github.com/google-gemini/gemini-cli)** [![GitHub stars](https://img.shields.io/github/stars/google-gemini/gemini-cli?style=social&color=white)](https://github.com/google-gemini/gemini-cli/stargazers) 🤖  
-  Google's terminal agent powered by Gemini, with tools for repo work and research.
+- **[Gemini CLI (Retired)](https://github.com/google-gemini/gemini-cli)** [![GitHub stars](https://img.shields.io/github/stars/google-gemini/gemini-cli?style=social&color=white)](https://github.com/google-gemini/gemini-cli/stargazers) 🤖  
+  Legacy terminal agent powered by Gemini, succeeded by Antigravity CLI.
 - **[Codex CLI](https://github.com/openai/codex)** [![GitHub stars](https://img.shields.io/github/stars/openai/codex?style=social&color=white)](https://github.com/openai/codex/stargazers) ⌨️  
   OpenAI's local coding agent for reading, editing, and running code.
 - **[OpenHands](https://github.com/All-Hands-AI/OpenHands)** [![GitHub stars](https://img.shields.io/github/stars/All-Hands-AI/OpenHands?style=social&color=white)](https://github.com/All-Hands-AI/OpenHands/stargazers) 🖐️  
