@@ -114,11 +114,6 @@ The AI coding market has matured into a landscape dominated by tech giants and h
   First open-source AI editor that tracks changes across your entire stack.
 - **[Mentat](https://github.com/AbanteAI/archive-old-cli-mentat)** [![GitHub stars](https://img.shields.io/github/stars/AbanteAI/archive-old-cli-mentat?style=social&color=white)](https://github.com/AbanteAI/archive-old-cli-mentat/stargazers) 🧠  
   AI coding assistant that lives in your terminal and understands your project context.
-- **[Hermes Agent](https://github.com/NousResearch/hermes-agent)** | Nous Research's self-improving CLI agent with persistent memory. | Sandboxed execution, multi-platform RPC, supports 300+ models. 
-- **[Claw Code](https://github.com/ultraworkers/claw-code)** | Clean-room rewrite of Claude Code architecture in Python/Rust. | Fastest repo in GitHub history to 100K stars, MIT. 
-- **[Open Interpreter](https://github.com/OpenInterpreter/open-interpreter)** | Terminal tool that executes code and actions locally. | Direct system access via standard shell. 
-- **[Cline CLI](https://github.com/cline/cline)** | Model-agnostic autonomous agent for planning, file edits, and browser use. | Built-in shell and browser tool calling. 
-- **[Aider](https://github.com/Aider-AI/aider)** | CLI-based AI pair programmer editing files directly. | Best-in-class Git-based multi-file coding workflows. 
 
 
 ### 🔬 Experimental & Specialized OS Tools
