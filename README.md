@@ -54,7 +54,7 @@ The AI coding market has matured into a landscape dominated by tech giants and h
 
 ### ⌨️ CLI & Terminal Tools (Hosted and Open-Source)
 
-| Tool | Description | Highlights | Stars | Pricing | Free Tier Limit | Size (Valuation) |
+| Tool | Description | Highlights | Repository Stars | Pricing | Free Tier Limit | Size (Valuation) |
 | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
 | **[OpenCode](https://opencode.ai)** | Open-source, terminal-first AI coding agent. | Provider-agnostic CLI/TUI agent with MCP & LSP support. | [![GitHub stars](https://img.shields.io/github/stars/anomalyco/opencode?style=social&color=white)](https://github.com/anomalyco/opencode/stargazers) | OpenCode Go ($10/mo) or BYO API Key | Unlimited (with BYO key) / Basic fallback models | **Undisclosed** |
 | **[Gemini CLI (Retired)](https://github.com/google-gemini/gemini-cli)** | Legacy terminal agent, replaced by Antigravity CLI. | Succeeded by Antigravity CLI. | [![GitHub stars](https://img.shields.io/github/stars/google-gemini/gemini-cli?style=social&color=white)](https://github.com/google-gemini/gemini-cli/stargazers) | Free (Open Source) | Unlimited (Self-hosted) | **$2.2T** (Google) |
