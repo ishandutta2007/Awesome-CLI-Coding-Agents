@@ -67,7 +67,7 @@ The AI coding market has matured into a landscape dominated by tech giants and h
 
 ---
 
-## 📂 Open-Source GitHub Projects
+## 📂 Other Open-Source GitHub Projects
 
 ### 🌟 Top Dedicated AI Editors & Agents
 
@@ -75,11 +75,6 @@ The AI coding market has matured into a landscape dominated by tech giants and h
   Nous Research's self-improving CLI agent with persistent memory, automated skill creation, and sandboxed code execution.
 - **[Claw Code](https://github.com/ultraworkers/claw-code)** [![GitHub stars](https://img.shields.io/github/stars/ultraworkers/claw-code?style=social&color=white)](https://github.com/ultraworkers/claw-code/stargazers) 🦞  
   Clean-room rewrite of Claude Code architecture in Python/Rust.
-- **[OpenCode](https://github.com/anomalyco/opencode)** [![GitHub stars](https://img.shields.io/github/stars/anomalyco/opencode?style=social&color=white)](https://github.com/anomalyco/opencode/stargazers) ⌨️  
-  Terminal-native coding agent with 75+ provider support and LSP integration.
-- **[Gemini CLI (Retired)](https://github.com/google-gemini/gemini-cli)** [![GitHub stars](https://img.shields.io/github/stars/google-gemini/gemini-cli?style=social&color=white)](https://github.com/google-gemini/gemini-cli/stargazers) 🤖  
-  Legacy terminal agent powered by Gemini, succeeded by Antigravity CLI.
-- **[Codex CLI](https://github.com/openai/codex)** [![GitHub stars](https://img.shields.io/github/stars/openai/codex?style=social&color=white)](https://github.com/openai/codex/stargazers) ⌨️  
   OpenAI's local coding agent for reading, editing, and running code.
 - **[OpenHands](https://github.com/All-Hands-AI/OpenHands)** [![GitHub stars](https://img.shields.io/github/stars/All-Hands-AI/OpenHands?style=social&color=white)](https://github.com/All-Hands-AI/OpenHands/stargazers) 🖐️  
   Open-source agentic developer environment with CLI and web entrypoints.
@@ -89,16 +84,12 @@ The AI coding market has matured into a landscape dominated by tech giants and h
   Terminal tool that can execute code and actions locally on your machine.
 - **[Cline CLI](https://github.com/cline/cline)** [![GitHub stars](https://img.shields.io/github/stars/cline/cline?style=social&color=white)](https://github.com/cline/cline/stargazers) 🔧  
   Model-agnostic autonomous agent for planning, file edits, command execution, and browser use.
-- **[Goose](https://github.com/block/goose)** [![GitHub stars](https://img.shields.io/github/stars/block/goose?style=social&color=white)](https://github.com/block/goose/stargazers) 🪿  
-  Local, extensible agent that can execute, edit, and test, integrating with MCP.
 - **[Aider](https://github.com/Aider-AI/aider)** [![GitHub stars](https://img.shields.io/github/stars/Aider-AI/aider?style=social&color=white)](https://github.com/Aider-AI/aider/stargazers) ⌨️  
   CLI-based AI pair programmer. Edits files directly in your Git repo.
 - **[Continue CLI](https://github.com/continuedev/continue)** [![GitHub stars](https://img.shields.io/github/stars/continuedev/continue?style=social&color=white)](https://github.com/continuedev/continue/stargazers) ⏩  
   Open-source terminal extension for multi-model coding with a local/privacy focus.
 - **[Crush](https://github.com/charmbracelet/crush)** [![GitHub stars](https://img.shields.io/github/stars/charmbracelet/crush?style=social&color=white)](https://github.com/charmbracelet/crush/stargazers) 🍇  
   Charmbracelet's glamorous agentic coding TUI in Go.
-- **[Qwen Code](https://github.com/QwenLM/qwen-code)** [![GitHub stars](https://img.shields.io/github/stars/QwenLM/qwen-code?style=social&color=white)](https://github.com/QwenLM/qwen-code/stargazers) 🧠  
-  Alibaba Qwen's official CLI agent for Qwen coder models.
 - **[Roo Code CLI](https://github.com/RooCodeInc/Roo-Code)** [![GitHub stars](https://img.shields.io/github/stars/RooCodeInc/Roo-Code?style=social&color=white)](https://github.com/RooCodeInc/Roo-Code/stargazers) 🦘  
   Multi-mode CLI agent (architect/code/debug/orchestrator modes) with Claude-like terminal interface.
 - **[Kilo Code CLI](https://github.com/Kilo-Org/kilocode)** [![GitHub stars](https://img.shields.io/github/stars/Kilo-Org/kilocode?style=social&color=white)](https://github.com/Kilo-Org/kilocode/stargazers) ⚖️  
@@ -111,8 +102,6 @@ The AI coding market has matured into a landscape dominated by tech giants and h
   Terminal coding agent ("Pi") with TypeScript/Rust monorepo.
 - **[Smol Developer](https://github.com/smol-ai/developer)** [![GitHub stars](https://img.shields.io/github/stars/smol-ai/developer?style=social&color=white)](https://github.com/smol-ai/developer/stargazers) 👶  
   Embeddable developer agent that generates entire codebases from a prompt.
-- **[Trae Agent](https://github.com/bytedance/trae-agent)** [![GitHub stars](https://img.shields.io/github/stars/bytedance/trae-agent?style=social&color=white)](https://github.com/bytedance/trae-agent/stargazers) 🤖  
-  ByteDance's research-friendly CLI agent for software engineering tasks with multi-LLM support.
 - **[Claude Engineer](https://github.com/Doriandarko/claude-engineer)** [![GitHub stars](https://img.shields.io/github/stars/Doriandarko/claude-engineer?style=social&color=white)](https://github.com/Doriandarko/claude-engineer/stargazers) 🔧  
   Community-driven CLI for agentic Claude workflows with file management.
 - **[Claurst](https://github.com/Kuberwastaken/claurst)** [![GitHub stars](https://img.shields.io/github/stars/Kuberwastaken/claurst?style=social&color=white)](https://github.com/Kuberwastaken/claurst/stargazers) 🦀  
