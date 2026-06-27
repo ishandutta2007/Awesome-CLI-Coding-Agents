@@ -1,18 +1,20 @@
 <div align="center">
 
-<img src="assets/banner.svg" alt="Awesome CLI Coding Agents Banner" width="100%">
+<img src="assets/banner.svg" alt="Awesome CLI Coding Agents Banner - Best AI Code Editors and Coding Agents" width="100%">
 
-# 🚀 Awesome CLI Coding Agents
-### The Ultimate Curated List of AI-Powered IDEs, Agents & Coding Ecosystems
+# 🚀 Awesome CLI Coding Agents 🤖
 
+### The Ultimate Curated List of AI-Powered IDEs, Autonomous Coding Agents, Terminal TUIs & Software Engineering Ecosystems
+
+<a href="https://github.com/ishandutta2007/Awesome-Awesome-Awesome"><img src="https://img.shields.io/badge/Awesome-%E2%9C%94-blueviolet?style=flat-square&logo=github" alt="Awesome"/></a><a href="https://discord.gg/jc4xtF58Ve"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>
 [![GitHub Stars](https://img.shields.io/github/stars/ishandutta2007/Awesome-CLI-Coding-Agents?style=for-the-badge&logo=github&color=FFD700)](https://github.com/ishandutta2007/Awesome-CLI-Coding-Agents/stargazers)
 [![GitHub Forks](https://img.shields.io/github/forks/ishandutta2007/Awesome-CLI-Coding-Agents?style=for-the-badge&logo=github&color=58A6FF)](https://github.com/ishandutta2007/Awesome-CLI-Coding-Agents/network/members)
 [![License](https://img.shields.io/github/license/ishandutta2007/Awesome-CLI-Coding-Agents?style=for-the-badge&logo=opensourceinitiative&color=BC8CFF)](LICENSE)
 [![Last Commit](https://img.shields.io/github/last-commit/ishandutta2007/Awesome-CLI-Coding-Agents?style=for-the-badge&logo=git&color=40C463)](https://github.com/ishandutta2007/Awesome-CLI-Coding-Agents/commits/main)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=for-the-badge&logo=github)](https://github.com/ishandutta2007/Awesome-CLI-Coding-Agents/pulls)
-<a href="https://github.com/ishandutta2007"><img alt="GitHub followers" src="https://img.shields.io/github/followers/ishandutta2007?label=Follow&style=for-the-badge" /></a>
+<a href="https://github.com/ishandutta2007"><img alt="GitHub followers" src="https://img.shields.io/github/followers/ishandutta2007?label=Follow" /></a>
 
-**Transforming the way developers write, debug, and deploy code with Agentic AI.**
+**Supercharging software engineering workflows. Write, debug, and deploy code using next-generation Agentic AI and terminal coding assistants.**
 
 [SaaS Platforms](#-saas-products) • [Open-Source Projects](#-open-source-github-projects) • [Contributing](#-how-to-contribute) • [Star History](#-star-history)
 
@@ -20,7 +22,7 @@
 
 ---
 
-## 📖 Introduction
+## 📖 Introduction / SEO Overview
 
 Welcome to the most comprehensive and up-to-date repository for **AI Code Editors** and **Agentic Development Environments**. As of **2026**, the coding landscape has shifted from simple "copilots" to fully autonomous **AI Software Engineers** and deeply integrated **AI-native IDEs**.
 
