@@ -38,7 +38,7 @@ This list tracks the best **SaaS platforms** and **Open-Source GitHub projects**
 
 The AI coding market has matured into a landscape dominated by tech giants and hyper-growth unicorns. Below are the leading SaaS platforms, sorted by their parent company's valuation or latest funding round.
 
-### ⌨️ CLI & Terminal Tools (Hosted and Closed-Source)
+### ⌨️ CLI & Terminal Tools (Cloud Hosted and Closed-Source)
 
 | Tool | Description | Highlights | Pricing | Free Tier Limit | Size (Valuation) |
 | :--- | :--- | :--- | :--- | :--- | :--- |
@@ -52,7 +52,7 @@ The AI coding market has matured into a landscape dominated by tech giants and h
 | **[Warp](https://github.com/warpdotdev/Warp)** | Modern terminal with built-in AI agent mode. | Understands tasks, runs commands, edits files, and orchestrates workflows. | Free for individuals, Pro ($15/mo), Team ($22/mo) | 100 AI requests/mo | **$100M** (Warp) |
 | **[Droid](https://github.com/Factory-AI/factory)** | Factory's multi-model CLI coding agent. | Specialized droids for different tasks, headless CI mode. | Custom Enterprise plans | No Free Tier | **$60M** (Factory) |
 
-### ⌨️ CLI & Terminal Tools (Hosted and Open-Source)
+### ⌨️ CLI & Terminal Tools (Cloud Hosted and Open-Source)
 
 | Tool | Description | Highlights | Repository Stars | Pricing | Free Tier Limit | Size (Valuation) |
 | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
@@ -67,7 +67,7 @@ The AI coding market has matured into a landscape dominated by tech giants and h
 
 ---
 
-## 📂 Other Open-Source GitHub Projects
+## 📂 Open-Source GitHub Projects (Self Hosted)
 
 ### 🌟 Top Dedicated AI Editors & Agents
 
