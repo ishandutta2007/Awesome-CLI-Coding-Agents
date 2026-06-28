@@ -63,7 +63,10 @@ The AI coding market has matured into a landscape dominated by tech giants and h
 | **[Qwen Code](https://qwenlm.github.io/qwen-code-docs/en/users/overview)** | Official CLI agent for Qwen coder models (workflow tool + repo operations). | Official CLI tool, Apache-2.0. | [![GitHub stars](https://img.shields.io/github/stars/QwenLM/qwen-code?style=social&color=white)](https://github.com/QwenLM/qwen-code/stargazers) | Free (Open Source) | Unlimited (Self-hosted) | **$200B** (Alibaba) |
 | **[Trae Agent](https://www.trae.ai)** | Modular CLI agent for software engineering tasks with multi-LLM support. | Research-friendly modular architecture, MIT. | [![GitHub stars](https://img.shields.io/github/stars/bytedance/trae-agent?style=social&color=white)](https://github.com/bytedance/trae-agent/stargazers) | Free (Open Source) | Unlimited (Self-hosted) | **$600B** (ByteDance) |
 | **[Freebuff](https://freebuff.com)** | Open-source, terminal-based AI coding assistant. | Ad-supported alternative to Claude Code; runs locally. | [![GitHub stars](https://img.shields.io/github/stars/CodebuffAI/codebuff?style=social&color=white)](https://github.com/CodebuffAI/codebuff/stargazers) | Free (Ad-supported) | Unlimited (displays text-based ads) | **$500K+** (YC F24) |
+| **[Codebuff](https://codebuff.com)** | Multi-agent AI coding assistant with CLI support for collaborative coding workflows. | Ad-supported alternative to Claude Code; runs locally. | [![GitHub stars](https://img.shields.io/github/stars/CodebuffAI/codebuff?style=social&color=white)](https://github.com/CodebuffAI/codebuff/stargazers) | Free tier, 1¢/credit pay-as-you-go, or $100-$200/mo subscription | 500 free credits/mo | **$500K+** (YC F24) |
 | **[Command Code](https://commandcode.ai)** | CLI-native AI coding agent that learns developer "taste" with the `taste-1` neuro-symbolic model. | Terminal-centric, learning style patterns, respects developer workflows. | [![GitHub stars](https://img.shields.io/github/stars/CommandCodeAI/command-code?style=social&color=white)](https://github.com/CommandCodeAI/command-code/stargazers) | Go ($1/mo), Pro ($15/mo), Max ($100-$200/mo) | Free tier for solo developers (or $10 credits on Go plan) | **$5M** (Seed) |
+| **[Kimi CLI](https://kimi.ai)** | Moonshot AI's CLI coding agent with skills, MCP support, and ACP IDE integration. | Succeeded by Kimi Code CLI; support for MCP and ACP IDE integration. | [![GitHub stars](https://img.shields.io/github/stars/MoonshotAI/kimi-cli?style=social&color=white)](https://github.com/MoonshotAI/kimi-cli/stargazers) | Free (Open Source) or Kimi API usage / Kimi Membership | Unlimited (Self-hosted) / Basic API trial limits | **$20B** (Moonshot AI) |
+| **[Amazon Q Developer CLI](https://aws.amazon.com/q/developer/)** | AWS's agentic terminal chat for building apps, debugging, and DevOps. | AWS's terminal chat, shell autocompletion, commands, and DevOps features. | [![GitHub stars](https://img.shields.io/github/stars/aws/amazon-q-developer-cli?style=social&color=white)](https://github.com/aws/amazon-q-developer-cli/stargazers) | Free (Open Source) or AWS Pro subscription | Unlimited (Self-hosted) / Basic AWS limits | **$2.1T** (Amazon) |
 
 ---
 
@@ -106,14 +109,10 @@ The AI coding market has matured into a landscape dominated by tech giants and h
   Community-driven CLI for agentic Claude workflows with file management.
 - **[Claurst](https://github.com/Kuberwastaken/claurst)** [![GitHub stars](https://img.shields.io/github/stars/Kuberwastaken/claurst?style=social&color=white)](https://github.com/Kuberwastaken/claurst/stargazers) 🦀  
   Claude Code rewritten in idiomatic Rust with architectural breakdown.
-- **[Kimi CLI](https://github.com/MoonshotAI/kimi-cli)** [![GitHub stars](https://img.shields.io/github/stars/MoonshotAI/kimi-cli?style=social&color=white)](https://github.com/MoonshotAI/kimi-cli/stargazers) 🌌  
-  Moonshot AI's CLI coding agent with skills, MCP support, and ACP IDE integration.
 - **[Free Code](https://github.com/paoloanzn/free-code)** [![GitHub stars](https://img.shields.io/github/stars/paoloanzn/free-code?style=social&color=white)](https://github.com/paoloanzn/free-code/stargazers) 🕊️  
   Telemetry-free fork of Claude Code with guardrails stripped and experimental features enabled.
 - **[ForgeCode](https://github.com/antinomyhq/forge)** [![GitHub stars](https://img.shields.io/github/stars/antinomyhq/forge?style=social&color=white)](https://github.com/antinomyhq/forge/stargazers) 🛠️  
   AI pair programmer supporting 300+ models, with task management and large-scale refactor tooling.
-- **[Codebuff](https://github.com/CodebuffAI/codebuff)** [![GitHub stars](https://img.shields.io/github/stars/CodebuffAI/codebuff?style=social&color=white)](https://github.com/CodebuffAI/codebuff/stargazers) 🐃  
-  Multi-agent AI coding assistant with CLI support for collaborative coding workflows.
 - **[Kode CLI](https://github.com/shareAI-lab/Kode-cli)** [![GitHub stars](https://img.shields.io/github/stars/shareAI-lab/Kode-cli?style=social&color=white)](https://github.com/shareAI-lab/Kode-cli/stargazers) 💻  
   ShareAI's open-source CLI agent for terminal-native coding.
 - **[Mistral Vibe](https://github.com/mistralai/mistral-vibe)** [![GitHub stars](https://img.shields.io/github/stars/mistralai/mistral-vibe?style=social&color=white)](https://github.com/mistralai/mistral-vibe/stargazers) 🍃  
@@ -142,8 +141,6 @@ The AI coding market has matured into a landscape dominated by tech giants and h
   Local-first CLI coding agent supporting Ollama, OpenRouter, and MCP.
 - **[Agentless](https://github.com/OpenAutoCoder/Agentless)** [![GitHub stars](https://img.shields.io/github/stars/OpenAutoCoder/Agentless?style=social&color=white)](https://github.com/OpenAutoCoder/Agentless/stargazers) 🔍  
   Lightweight approach to autonomous software engineering without persistent agent loops.
-- **[Amazon Q Developer CLI](https://github.com/aws/amazon-q-developer-cli)** [![GitHub stars](https://img.shields.io/github/stars/aws/amazon-q-developer-cli?style=social&color=white)](https://github.com/aws/amazon-q-developer-cli/stargazers) ☁️  
-  AWS's agentic terminal chat for building apps, debugging, and DevOps.
 - **[Neovate Code](https://github.com/neovateai/neovate-code)** [![GitHub stars](https://img.shields.io/github/stars/neovateai/neovate-code?style=social&color=white)](https://github.com/neovateai/neovate-code/stargazers) 🐜  
   Ant Group's CLI agent with plugin system, multi-model/multi-provider, and MCP.
 - **[Groq Code CLI](https://github.com/build-with-groq/groq-code-cli)** [![GitHub stars](https://img.shields.io/github/stars/build-with-groq/groq-code-cli?style=social&color=white)](https://github.com/build-with-groq/groq-code-cli/stargazers) ⚡  
