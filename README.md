@@ -57,16 +57,11 @@ The AI coding market has matured into a landscape dominated by tech giants and h
 | Tool | Description | Highlights | Repository Stars | Pricing | Free Tier Limit | Size (Valuation) |
 | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
 | **[OpenCode](https://opencode.ai)** | Open-source, terminal-first AI coding agent. | Provider-agnostic CLI/TUI agent with MCP & LSP support. | [![GitHub stars](https://img.shields.io/github/stars/anomalyco/opencode?style=social&color=white)](https://github.com/anomalyco/opencode/stargazers) | OpenCode Go ($10/mo) or BYO API Key | Unlimited (with BYO key) / Basic fallback models | **Undisclosed** |
-| **[Gemini CLI (Retired)](https://geminicli.com)** | Legacy terminal agent, replaced by Antigravity CLI. | Succeeded by Antigravity CLI. | [![GitHub stars](https://img.shields.io/github/stars/google-gemini/gemini-cli?style=social&color=white)](https://github.com/google-gemini/gemini-cli/stargazers) | Free (Open Source) | Unlimited (Self-hosted) | **$2.2T** (Google) |
-| **[Codex CLI](https://chatgpt.com/codex)** | OpenAI's local coding agent for reading, editing, and running code. | Interactive TUI and tool execution, Apache-2.0. | [![GitHub stars](https://img.shields.io/github/stars/openai/codex?style=social&color=white)](https://github.com/openai/codex/stargazers) | Free (Open Source) | Unlimited (Self-hosted) | **$157B** (OpenAI) |
-| **[Goose](https://goose-docs.ai)** | Local, extensible agent that can execute, edit, and test. | Designed to run on-device and integrate with MCP. | [![GitHub stars](https://img.shields.io/github/stars/block/goose?style=social&color=white)](https://github.com/block/goose/stargazers) | Free (Open Source) | Unlimited (Self-hosted) | **$50B** (Block Inc.) |
-| **[Qwen Code](https://qwenlm.github.io/qwen-code-docs/en/users/overview)** | Official CLI agent for Qwen coder models (workflow tool + repo operations). | Official CLI tool, Apache-2.0. | [![GitHub stars](https://img.shields.io/github/stars/QwenLM/qwen-code?style=social&color=white)](https://github.com/QwenLM/qwen-code/stargazers) | Free (Open Source) | Unlimited (Self-hosted) | **$200B** (Alibaba) |
-| **[Trae Agent](https://www.trae.ai)** | Modular CLI agent for software engineering tasks with multi-LLM support. | Research-friendly modular architecture, MIT. | [![GitHub stars](https://img.shields.io/github/stars/bytedance/trae-agent?style=social&color=white)](https://github.com/bytedance/trae-agent/stargazers) | Free (Open Source) | Unlimited (Self-hosted) | **$600B** (ByteDance) |
 | **[Freebuff](https://freebuff.com)** | Open-source, terminal-based AI coding assistant. | Ad-supported alternative to Claude Code; runs locally. | [![GitHub stars](https://img.shields.io/github/stars/CodebuffAI/codebuff?style=social&color=white)](https://github.com/CodebuffAI/codebuff/stargazers) | Free (Ad-supported) | Unlimited (displays text-based ads) | **$500K+** (YC F24) |
 | **[Codebuff](https://codebuff.com)** | Multi-agent AI coding assistant with CLI support for collaborative coding workflows. | Ad-supported alternative to Claude Code; runs locally. | [![GitHub stars](https://img.shields.io/github/stars/CodebuffAI/codebuff?style=social&color=white)](https://github.com/CodebuffAI/codebuff/stargazers) | Free tier, 1¢/credit pay-as-you-go, or $100-$200/mo subscription | 500 free credits/mo | **$500K+** (YC F24) |
 | **[Command Code](https://commandcode.ai)** | CLI-native AI coding agent that learns developer "taste" with the `taste-1` neuro-symbolic model. | Terminal-centric, learning style patterns, respects developer workflows. | [![GitHub stars](https://img.shields.io/github/stars/CommandCodeAI/command-code?style=social&color=white)](https://github.com/CommandCodeAI/command-code/stargazers) | Go ($1/mo), Pro ($15/mo), Max ($100-$200/mo) | Free tier for solo developers (or $10 credits on Go plan) | **$5M** (Seed) |
 | **[Kimi CLI](https://kimi.ai)** | Moonshot AI's CLI coding agent with skills, MCP support, and ACP IDE integration. | Succeeded by Kimi Code CLI; support for MCP and ACP IDE integration. | [![GitHub stars](https://img.shields.io/github/stars/MoonshotAI/kimi-cli?style=social&color=white)](https://github.com/MoonshotAI/kimi-cli/stargazers) | BYO API Key (pay-as-you-go) or Kimi Membership (from ~$19/mo) | No Free Tier (Requires paid membership or API credits for coding agent usage) | **$20B** (Moonshot AI) |
-| **[Amazon Q Developer CLI](https://aws.amazon.com/q/developer/)** | AWS's agentic terminal chat for building apps, debugging, and DevOps. | AWS's terminal chat, shell autocompletion, commands, and DevOps features. | [![GitHub stars](https://img.shields.io/github/stars/aws/amazon-q-developer-cli?style=social&color=white)](https://github.com/aws/amazon-q-developer-cli/stargazers) | Free (Open Source) or AWS Pro subscription | Unlimited (Self-hosted) / Basic AWS limits | **$2.1T** (Amazon) |
+| **[Amazon Q Developer CLI](https://aws.amazon.com/q/developer/)** | AWS's agentic terminal chat for building apps, debugging, and DevOps. | AWS's terminal chat, shell autocompletion, commands, and DevOps features. | [![GitHub stars](https://img.shields.io/github/stars/aws/amazon-q-developer-cli?style=social&color=white)](https://github.com/aws/amazon-q-developer-cli/stargazers) | Free (Open Source) or AWS Pro subscription | Basic AWS limits (e.g. 50 chat/agentic queries/mo) | **$2.1T** (Amazon) |
 
 ---
 
@@ -78,6 +73,7 @@ The AI coding market has matured into a landscape dominated by tech giants and h
   Nous Research's self-improving CLI agent with persistent memory, automated skill creation, and sandboxed code execution.
 - **[Claw Code](https://github.com/ultraworkers/claw-code)** [![GitHub stars](https://img.shields.io/github/stars/ultraworkers/claw-code?style=social&color=white)](https://github.com/ultraworkers/claw-code/stargazers) 🦞  
   Clean-room rewrite of Claude Code architecture in Python/Rust.
+- **[Codex CLI](https://github.com/openai/codex)** [![GitHub stars](https://img.shields.io/github/stars/openai/codex?style=social&color=white)](https://github.com/openai/codex/stargazers) 📝  
   OpenAI's local coding agent for reading, editing, and running code.
 - **[OpenHands](https://github.com/All-Hands-AI/OpenHands)** [![GitHub stars](https://img.shields.io/github/stars/All-Hands-AI/OpenHands?style=social&color=white)](https://github.com/All-Hands-AI/OpenHands/stargazers) 🖐️  
   Open-source agentic developer environment with CLI and web entrypoints.
@@ -99,6 +95,8 @@ The AI coding market has matured into a landscape dominated by tech giants and h
   Agentic engineering platform CLI with orchestrator mode.
 - **[SWE-agent](https://github.com/SWE-agent/SWE-agent)** [![GitHub stars](https://img.shields.io/github/stars/SWE-agent/SWE-agent?style=social&color=white)](https://github.com/SWE-agent/SWE-agent/stargazers) 🧪  
   Agent for resolving real repo issues/PR tasks in SWE-bench.
+- **[Trae Agent](https://github.com/bytedance/trae-agent)** [![GitHub stars](https://img.shields.io/github/stars/bytedance/trae-agent?style=social&color=white)](https://github.com/bytedance/trae-agent/stargazers) 🎨  
+  Modular CLI agent for software engineering tasks with multi-LLM support.
 - **[Plandex](https://github.com/plandex-ai/plandex)** [![GitHub stars](https://img.shields.io/github/stars/plandex-ai/plandex?style=social&color=white)](https://github.com/plandex-ai/plandex/stargazers) 📝  
   Terminal-based agent for complex, multi-step tasks with sandboxed execution.
 - **[OH-MY-PI](https://github.com/can1357/oh-my-pi)** [![GitHub stars](https://img.shields.io/github/stars/can1357/oh-my-pi?style=social&color=white)](https://github.com/can1357/oh-my-pi) 🥧  
@@ -113,6 +111,10 @@ The AI coding market has matured into a landscape dominated by tech giants and h
   Telemetry-free fork of Claude Code with guardrails stripped and experimental features enabled.
 - **[ForgeCode](https://github.com/antinomyhq/forge)** [![GitHub stars](https://img.shields.io/github/stars/antinomyhq/forge?style=social&color=white)](https://github.com/antinomyhq/forge/stargazers) 🛠️  
   AI pair programmer supporting 300+ models, with task management and large-scale refactor tooling.
+- **[Gemini CLI (Retired)](https://github.com/google-gemini/gemini-cli)** [![GitHub stars](https://img.shields.io/github/stars/google-gemini/gemini-cli?style=social&color=white)](https://github.com/google-gemini/gemini-cli/stargazers) ♊  
+  Legacy terminal agent, replaced by Antigravity CLI.
+- **[Goose](https://github.com/block/goose)** [![GitHub stars](https://img.shields.io/github/stars/block/goose?style=social&color=white)](https://github.com/block/goose/stargazers) 🪶  
+  Local, extensible agent that can execute, edit, and test, designed to run on-device and integrate with MCP.
 - **[Kode CLI](https://github.com/shareAI-lab/Kode-cli)** [![GitHub stars](https://img.shields.io/github/stars/shareAI-lab/Kode-cli?style=social&color=white)](https://github.com/shareAI-lab/Kode-cli/stargazers) 💻  
   ShareAI's open-source CLI agent for terminal-native coding.
 - **[Mistral Vibe](https://github.com/mistralai/mistral-vibe)** [![GitHub stars](https://img.shields.io/github/stars/mistralai/mistral-vibe?style=social&color=white)](https://github.com/mistralai/mistral-vibe/stargazers) 🍃  
@@ -177,6 +179,8 @@ The AI coding market has matured into a landscape dominated by tech giants and h
   Minimal Rust-based coding agent focused on CI workflows and small codemods.
 - **[QQCode](https://github.com/qnguyen3/qqcode)** [![GitHub stars](https://img.shields.io/github/stars/qnguyen3/qqcode?style=social&color=white)](https://github.com/qnguyen3/qqcode/stargazers) ⚡  
   Lightweight CLI coding agent in Rust focused on speed and developer control.
+- **[Qwen Code](https://github.com/QwenLM/qwen-code)** [![GitHub stars](https://img.shields.io/github/stars/QwenLM/qwen-code?style=social&color=white)](https://github.com/QwenLM/qwen-code/stargazers) 🐉  
+  Official CLI agent for Qwen coder models (workflow tool + repo operations).
 - **[Keen Code](https://github.com/mochow13/keen-code)** [![GitHub stars](https://img.shields.io/github/stars/mochow13/keen-code?style=social&color=white)](https://github.com/mochow13/keen-code/stargazers) 💡  
   Go-based CLI coding agent focused on efficient context management using TurnMemory.
 - **[Smelt](https://github.com/leonardcser/smelt)** [![GitHub stars](https://img.shields.io/github/stars/leonardcser/smelt?style=social&color=white)](https://github.com/leonardcser/smelt/stargazers) 🌋  
