@@ -76,6 +76,8 @@ The AI coding market has matured into a landscape dominated by tech giants and h
   Clean-room rewrite of Claude Code architecture in Python/Rust.
 - **[Codex CLI](https://github.com/openai/codex)** [![GitHub stars](https://img.shields.io/github/stars/openai/codex?style=social&color=white)](https://github.com/openai/codex/stargazers) 📝  
   OpenAI's local coding agent for reading, editing, and running code.
+- **[codex-profiles](https://github.com/Ducksss/codex-profiles)** [![GitHub stars](https://img.shields.io/github/stars/Ducksss/codex-profiles?style=social&color=white)](https://github.com/Ducksss/codex-profiles/stargazers) 🧰
+  Bash CLI for launching Codex CLI and Codex Desktop with isolated `CODEX_HOME` profiles for separate accounts and workflows.
 - **[OpenHands](https://github.com/All-Hands-AI/OpenHands)** [![GitHub stars](https://img.shields.io/github/stars/All-Hands-AI/OpenHands?style=social&color=white)](https://github.com/All-Hands-AI/OpenHands/stargazers) 🖐️  
   Open-source agentic developer environment with CLI and web entrypoints.
 - **[Pi](https://github.com/badlogic/pi-mono)** [![GitHub stars](https://img.shields.io/github/stars/badlogic/pi-mono?style=social&color=white)](https://github.com/badlogic/pi-mono/stargazers) 🥧  
