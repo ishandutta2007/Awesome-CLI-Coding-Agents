@@ -52,6 +52,8 @@ The AI coding market has matured into a landscape dominated by tech giants and h
 | **[Warp](https://github.com/warpdotdev/Warp)** | Modern terminal with built-in AI agent mode. | Understands tasks, runs commands, edits files, and orchestrates workflows. | Free for individuals, Pro ($15/mo), Team ($22/mo) | 100 AI requests/mo | **$100M** (Warp) |
 | **[Droid](https://github.com/Factory-AI/factory)** | Factory's multi-model CLI coding agent. | Specialized droids for different tasks, headless CI mode. | Custom Enterprise plans | No Free Tier | **$60M** (Factory) |
 
+| **[Muse (Meta)](https://github.com/facebookresearch/muse)** | Meta's open-source code models and tools for code generation and reasoning. | Research-grade code LLMs for completion, generation, and code analysis. | Open-source / Free | N/A | **Meta** |
+
 ### ⌨️ CLI & Terminal Tools (Cloud Hosted and Open-Source)
 
 | Tool | Description | Highlights | Repository Stars | Pricing | Free Tier Limit | Size (Valuation) |
