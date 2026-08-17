@@ -55,7 +55,7 @@ The AI coding market has matured into a landscape dominated by tech giants and h
 
 ### ⌨️ CLI & Terminal Tools (Cloud Hosted and Open-Source)
 
-| Tool | Description | Highlights | Repository_Stars | Pricing | Free Tier Limit | Size (Valuation) |
+| Tool | Description | Highlights | Github_Stars | Pricing | Free Tier Limit | Size (Valuation) |
 | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
 | **[OpenCode](https://opencode.ai)** | Open-source, terminal-first AI coding agent. | Provider-agnostic CLI/TUI agent with MCP & LSP support. | [![GitHub stars](https://img.shields.io/github/stars/anomalyco/opencode?style=social&color=white)](https://github.com/anomalyco/opencode/stargazers) | OpenCode Go ($10/mo) or BYO API Key | Unlimited (with BYO key) / Basic fallback models | **Undisclosed** |
 | **[MiMo Code](https://mimo.xiaomi.com/mimocode)** | Xiaomi's open-source, terminal-native AI coding agent. | Features a persistent memory system, Plan/Build/Compose workflow modes, and self-evolution. | [![GitHub stars](https://img.shields.io/github/stars/XiaomiMiMo/MiMo-Code?style=social&color=white)](https://github.com/XiaomiMiMo/MiMo-Code/stargazers) | BYO API Key or pay-as-you-go ($0.10-$1.00/1M tokens) | Free tier limits apply (includes limited-time free model MiMo-V2.5) | **$71B** (Xiaomi) |
