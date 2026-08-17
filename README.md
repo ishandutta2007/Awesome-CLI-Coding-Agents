@@ -48,11 +48,11 @@ The AI coding market has matured into a landscape dominated by tech giants and h
 | **[Muse (Meta)](https://github.com/facebookresearch/muse)** | Meta's open-source code models and tools for code generation and reasoning. | Research-grade code LLMs for completion, generation, and code analysis. | Open-source / Free | N/A | **$1.51T(Meta)** |
 | **[Claude Code](https://claude.ai/)** | Anthropic's power-user coding interface. | $44B ARR; features superior reasoning and large context. | API consumption or Claude Pro ($20/mo) / Claude Max ($100-$200/mo) | No Free Tier | **$965B** (Anthropic) |
 | **[Cursor CLI](https://cursor.com/cli)** | Cursor's official command-line agent with shell mode and headless/CI support. | Multi-model access, parallel agents. | Included with Cursor Pro ($20/mo) / Business ($40/mo) | Limited requests apply | **$50B** (Anysphere / Cursor) |
+| **[Ziphu](@z_ai/coding-helper)** |||Starts at $12.6/ month|100M Tokens per day|**1B**(Z.ai)|
 | **[Junie CLI](https://junie.jetbrains.com)** | JetBrains' LLM-agnostic CLI coding agent. | Supports GPT-5, Claude, Gemini, Grok with plan mode and CI/CD headless usage. | Pricing not yet public (EAP) | N/A (EAP) | **$5B** (JetBrains) |
 | **[Tabnine CLI](https://docs.tabnine.com/main/getting-started/tabnine-cli)** | AI-powered terminal coding assistant with agentic workflows. | Distributed as a Docker container. | Enterprise subscription | No Free Tier | **$150M** (Tabnine) |
 | **[Warp](https://github.com/warpdotdev/Warp)** | Modern terminal with built-in AI agent mode. | Understands tasks, runs commands, edits files, and orchestrates workflows. | Free for individuals, Pro ($15/mo), Team ($22/mo) | 100 AI requests/mo | **$100M** (Warp) |
 | **[Droid](https://github.com/Factory-AI/factory)** | Factory's multi-model CLI coding agent. | Specialized droids for different tasks, headless CI mode. | Custom Enterprise plans | No Free Tier | **$60M** (Factory) |
-| **[Ziphu](@z_ai/coding-helper)** |||Starts at $12.6/ month|100 Tokens per day|**1B**(Z.ai)|
 
 
 ### ⌨️ CLI & Terminal Tools (Cloud Hosted and Open-Source)
