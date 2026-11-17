@@ -53,6 +53,7 @@ The AI coding market has matured into a landscape dominated by tech giants and h
 | **[Tabnine CLI](https://docs.tabnine.com/main/getting-started/tabnine-cli)** | AI-powered terminal coding assistant with agentic workflows. | Distributed as a Docker container. | Enterprise subscription | No Free Tier | **$150M** (Tabnine) |
 | **[Warp](https://github.com/warpdotdev/Warp)** | Modern terminal with built-in AI agent mode. | Understands tasks, runs commands, edits files, and orchestrates workflows. | Free for individuals, Pro ($15/mo), Team ($22/mo) | 100 AI requests/mo | **$100M** (Warp) |
 | **[Droid](https://github.com/Factory-AI/factory)** | Factory's multi-model CLI coding agent. | Specialized droids for different tasks, headless CI mode. | Custom Enterprise plans | No Free Tier | **$60M** (Factory) |
+| **[Mel](https://www.openmel.dev)** | Multi-agent, multi-model AI terminal with a VS Code extension. | Agentic team for coding on macOS, Windows and Linux, with configurable approvals. Proprietary. | Free with your own API key, Pro ($20/mo), Max ($200/mo) | Unlimited (with BYO key) | **Undisclosed** (Thinkverse AI) |
 
 
 ### ⌨️ CLI & Terminal Tools (Cloud Hosted and Open-Source)
